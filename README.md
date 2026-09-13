@@ -20,5 +20,5 @@ Python (pandas) → PostgreSQL (Neon, SQL: CTE, оконные функции NT
 - "Lost" — 1277 клиентов (21.7%), но только 1.9% выручки — низкий приоритет 
   для маркетинговых затрат
 
-## Дашборд
-![dashboard](dashboard/powerbi_screenshot.png)
+
+
